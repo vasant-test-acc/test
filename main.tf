@@ -1,6 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  profile = "default"
+  secret_key = "ARYTD45748RFGTUDTX"
+  access_key = "sryxtc3547cgutxucvkhzdgxrssr"
 }
 
 module "vpc" {
