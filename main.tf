@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
   access_key = "mYMv28AXmmXyx5wcK"
-  api_token = "SDIYDI4573DDIYXJDH"
+  token = "SDIYDI4573DDIYXJDH"
 }
 
 module "vpc" {
